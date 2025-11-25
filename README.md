@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+A. Nama Website : BORO
 
-# Run and deploy your AI Studio app
+B. BORO (Booking Online Room) adalah aplikasi peminjaman ruangan berbasis web yang dirancang untuk memudahkan proses reservasi ruang di lingkungan universitas. Sistem ini mendukung tiga role pengguna, yaitu Mahasiswa, Dosen, dan Admin, dengan alur yang terstruktur dan transparan.
+Mahasiswa dan dosen dapat melakukan pemesanan ruangan sesuai kebutuhan kegiatan akademik maupun non-akademik, sementara admin memiliki kontrol penuh untuk mengelola ketersediaan ruangan, menyetujui permintaan, serta melakukan booking darurat apabila terdapat keperluan mendesak yang membutuhkan prioritas pemakaian ruang.
+BORO hadir untuk menciptakan proses peminjaman ruangan yang lebih cepat, efisien, dan terorganisir, sekaligus meminimalkan konflik jadwal antar pengguna.
 
-This contains everything you need to run your app locally.
+C. Kelas - NIM - Nama
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Rekayasa Interaksi C - Sindurmas MR - 202210370311377
+Rekayasa Interaksi C - Yuliantoni Setiyo Prayugo - 202210370311372
+Rekayasa Interaksi C - M. Adrian Maulana - 202210370311409
+Rekayasa Interaksi C - Syafriza Raditya Syahada - 202210370311379
